@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat:My name is Shoval Shabi and I am a student of B.Sc. in Software Engineering
+### My name is Shoval Shabi and I am a student of B.Sc. in Software Engineering
 
 ### I took some inspiration of sevreal some reame templates, and this is my first try of making my own readme, hope you like it 😄
 
