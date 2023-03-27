@@ -2,7 +2,7 @@
 
 ### My name is Shoval Shabi and I am a student of B.Sc. in Software Engineering
 
-### I took some inspiration of sevreal some reame templates, and this is my first try of making my own readme, hope you like it 😄
+### I took some inspiration from several README templates, and this is my first try at making one of my own, and I hope you like it 😄
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
