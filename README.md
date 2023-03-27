@@ -20,4 +20,7 @@
 📫 [![Gmail Badge](https://img.shields.io/badge/-shovalshabi@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:shovalshabi@gmail.com)](shovalshabi@gmail.com)
  
 <a href="https://www.linkedin.com/in/shoval-shabi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Shoval Shabi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:0xShoval Shabi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+ 
+<a href="mailto:0xshovalshabi@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xshovalshabi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
