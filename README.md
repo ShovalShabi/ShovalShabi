@@ -17,7 +17,7 @@
 
 ## Contact me : 
 <a href="https://www.linkedin.com/in/shoval-shabi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:Shoval Shabi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin: Shoval Shabi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
  <br><br/>
 <a href="mailto:shovalshabi@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  shovalshabi@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
