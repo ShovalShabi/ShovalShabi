@@ -18,8 +18,9 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-shovalshabi@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:shovalshabi@gmail.com)](shovalshabi@gmail.com)
+ 
 <li>
 <a href="https://www.linkedin.com/in/shoval-shabi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  0xShoval Shabi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
