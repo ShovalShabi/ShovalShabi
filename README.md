@@ -1,19 +1,15 @@
 <h1 align="center">Hello There!<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### My name is Shoval Shabi and I am a student of B.Sc. in Software Engineering
-
-### I took some inspiration from several README templates, and this is my first try at making one of my own, and I hope you like it 😄
+### My name is Shoval Shabi, a B.Sc. 3rd year student in Software Engineering
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+## Some of my statistics 🚀
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ![ShovalShabi's github stats](https://github-readme-stats.vercel.app/api?username=ShovalShabi&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![ShovalShabi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShovalShabi&theme=tokyonight&layout=compact)
-
-🌱 I’m currently in my 3rd year of my studies
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
