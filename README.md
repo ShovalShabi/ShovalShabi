@@ -6,6 +6,8 @@
 
 ## Some of my statistics 🚀
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShovalShabi)](https://git.io/streak-stats)
+
 ![ShovalShabi's github stats](https://github-readme-stats.vercel.app/api?username=ShovalShabi&show_icons=true&theme=tokyonight)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShovalShabi&theme=tokyonight" alt="GitHub Streak" /></a>
 ![ShovalShabi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShovalShabi&theme=tokyonight&layout=compact&size_weight=0&count_weight=1&hide=lex,makefile,css,html)
